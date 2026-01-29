@@ -35,6 +35,8 @@ Este repositório contém o código e as análises desenvolvidas durante a **Ime
 * **Análise Interativa:** Filtro específico para o cargo de Data Scientist comparando salários por país.
 
 
+---
 <p align="center">
   <i>"Os dados são o novo petróleo, mas o Pandas é a refinaria."</i> 🏴‍☠️
 </p>
+---
