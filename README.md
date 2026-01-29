@@ -12,7 +12,7 @@ Este repositório contém o código e as análises desenvolvidas durante a **Ime
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" height="30" /> **Pandas** | Biblioteca essencial para manipulação, limpeza e tratamento de tabelas (DataFrames). |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" height="30" /> **NumPy** | Suporte para operações matemáticas e tratamento eficiente de valores nulos. |
 | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="30" height="30" /> **Seaborn** | Utilizada para criar gráficos estatísticos atraentes e informativos. |
-| <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/master/lib/matplotlib/mpl-data/logo/matplotlib_sigset.png" width="30" height="30" /> **Matplotlib** | Base para a geração de gráficos fundamentais como histogramas e barras. |
+| <img src="https://matplotlib.org/stable/_static/logo_light.svg" width="30" height="30" /> **Matplotlib** | Base para a geração de gráficos fundamentais como histogramas e barras. |
 | <img src="https://images.plot.ly/logo/plotlyjs-logo@2x.png" width="30" height="30" /> **Plotly** | Biblioteca focada em visualizações interativas e dinâmicas. |
 ---
 
